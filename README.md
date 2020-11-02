@@ -7,7 +7,7 @@ The plugin stores the location of the player, and switches them into spetator mo
 
 ## Install
 
-The plugin can be downloaded [here](https://github.com/leapmotion/leapsimple), or you can compile it yourself :)
+The plugin can be downloaded [here '/out/artifacts/RandomTeleport.jar](https://github.com/LukeTHadley/Tempory-Spectate/blob/main/out/artifacts/RandomTeleport_jar/RandomTeleport.jar), or you can compile it yourself :)
 
 ## Commands
 
