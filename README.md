@@ -7,17 +7,21 @@ The plugin stores the location of the player, and switches them into spetator mo
 
 ## Install
 
-The plugin can be downloaded [here '/out/artifacts/RandomTeleport.jar](https://github.com/LukeTHadley/Tempory-Spectate/blob/main/out/artifacts/RandomTeleport_jar/RandomTeleport.jar), or you can compile it yourself :)
+The plugin can be downloaded [here](https://github.com/leapmotion/leapsimple), or you can compile it yourself :)
 
 ## Commands
 
 ```/spec``` or ```/spectate``` toggles a players gamemode between 'Survival' and 'Spectator'.
 
+![alt text](/readmefiles/LoginMessage.png "Login message")
+
 The plugin stores the location in the world that the player was in before switching to spectator mode.
+
+![alt text](/readmefiles/surToSpec.gif "Login message")
 
 Once the player runs the command to come out of spectator mode, the plugin will teleport the player to there last 'survival' coordinates in the world.
 
-
+![alt text](/readmefiles/specToSur.gif "Login message")
 
 
 If a player attempts to logout, or there connection gets forcibly removed from the server, the plugin will teleport them to there last known survival coordinates and switch them back to survival.
