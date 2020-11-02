@@ -1,0 +1,9 @@
+name: RandomTeleporter
+version: 0.2
+author: Thomas9078
+main: rtp.Main
+commands:
+  rtp:
+    description: Randomly teleports you to a safe location.
+  randomteleport:
+    description: Randomly teleports you to a safe location.

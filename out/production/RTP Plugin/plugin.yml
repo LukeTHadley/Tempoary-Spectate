@@ -1,0 +1,7 @@
+name: TempSpec
+version: 0.1
+author: Thomas9078
+main: tempspec.Main
+commands:
+  spec:
+    description: Toggles between Spectator and Survival mode.
