@@ -1,0 +1,15 @@
+name: TemporarySpectate
+version: ${project.version}
+main: com.github.lukethadley.temporaryspectate.TemporarySpectate
+api-version: 1.16
+authors: [ Thomas9078 ]
+description: Allows players to temporarily be placed into spectator mode until they choose to come out again.
+website: https://github.com/LukeTHadley/Tempory-Spectate
+commands:
+  tempoaryspectate:
+    aliases:
+      - tspec
+      - tempspec
+      - tempspectate
+      - ts
+    description: Toggles a player from being in survival to spectator mode
